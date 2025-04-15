@@ -1,4 +1,4 @@
-# movie_recommendation_system
+# Movie_recommendation_system
 
 # Overview
 This project implements a movie recommendation system based on cosine similarity. It uses data about movies, such as genres, keywords, title, and other attributes, to suggest similar movies based on a user's input movie title. The system processes the movie data, calculates similarity scores between movies, and returns a list of similar movies.
